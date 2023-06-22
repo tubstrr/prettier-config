@@ -21,4 +21,4 @@ $ yarn add --dev @tubstrr/prettier-config
 
 ---
 
-This is a fork from (@azz's)[https://github.com/azz/prettier-config] configuration
+This is a fork from [@azz's](https://github.com/azz/prettier-config) configuration
